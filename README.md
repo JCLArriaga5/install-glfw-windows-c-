@@ -60,3 +60,6 @@ When you make sure that the path exists you can install using the following comm
 ```sh
 PS C:\path\to\glfw-version> cmake --install . --default-directory-permissions u=rwx
 ```
+
+# Run Example code
+Now you can run the [Example code](https://www.glfw.org/documentation.html#:~:text=closed%20source%20software.-,Example%20code,-Below%20is%20a) from the GLFW documentation using CMake, check the example folder.
