@@ -62,4 +62,4 @@ PS C:\path\to\glfw-version> cmake --install . --default-directory-permissions u=
 ```
 
 # Run Example code
-Now you can run the [Example code](https://www.glfw.org/documentation.html#:~:text=closed%20source%20software.-,Example%20code,-Below%20is%20a) from the GLFW documentation using CMake, check the [example folder](../master/example-code).
+Now you can run the [Example code](https://www.glfw.org/documentation.html#:~:text=closed%20source%20software.-,Example%20code,-Below%20is%20a) from the GLFW documentation using CMake, check the CMakeLists [file](../master/example-code/CMakeLists.txt).
